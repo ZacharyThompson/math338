@@ -1,5 +1,5 @@
 library(readr)
-DebtCountries <- read_csv("~/docs/projects/338/DebtCountries.csv")
+DebtCountries <- read_csv("DebtCountries.csv")
 View(DebtCountries)
 attach(DebtCountries)
 
